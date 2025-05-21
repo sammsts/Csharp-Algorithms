@@ -97,11 +97,13 @@ Some examples:
 
 ## 🏷️ Tags
 You can browse all algorithms grouped by category in [TAGS.md](TAGS.md).
+
 *Você pode navegar pelos algoritmos agrupados por categoria em [TAGS.md](TAGS.md).*
 
 ## 🤝 Contributions
 *Contribuições*
 This repository is focused on personal study, but ideas, feedback, and suggestions are welcome! 
 You can open an issue or start a discussion if you want to collaborate.
+
 *Esse repositório é focado em estudo pessoal, mas ideias, feedbacks e sugestões são bem-vindos!
 Você pode abrir uma issue ou iniciar uma discussão se quiser colaborar.*
